@@ -1,4 +1,4 @@
-# FileSafeLogger
+# FileSafeLogger [![Build Status](https://travis-ci.org/takady/file_safe_logger.svg)](https://travis-ci.org/takady/file_safe_logger)
 
 FileSafeLogger enable you to keep logging even if log file removed after initialize
 
